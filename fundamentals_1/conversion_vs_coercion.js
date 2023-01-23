@@ -29,9 +29,9 @@ console.log(String(23), 23)
 
 /*************************************/
 
-//TYPE COERCION = happens when an operatro is deallign with two value of differnt tyes
+//TYPE COERCION = happens when an operator is between with two value of differnt tyes
 
-console.log("I am " + 23 + "years old")//hod did it make the num a string ... because the operatro triggers the coecrerion and the num is 
+console.log("I am " + 23 + "years old")//how did it make the num a string ... because the operatro triggers the coecrerion and the num is 
 //always converted to a string. the plus sign changes the num to string
 
 console.log('23' - '10' - 3) //converts the strings into numbers, the minus will chage the strings to nums

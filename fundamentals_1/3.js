@@ -1,5 +1,5 @@
-const dolphinAve = (97 + 112 + 101) / 3;
-const koalasAve = (109 + 95 + 106) / 3;
+const dolphinAve = (97 + 112 + 86) / 3;
+const koalasAve = (109 + 95 + 78) / 3;
 
 console.log(dolphinAve, koalasAve)
 
