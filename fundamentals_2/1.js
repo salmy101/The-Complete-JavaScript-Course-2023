@@ -1,7 +1,5 @@
 'use strict'; 
 
-
-
 // function calcAve(arr) {
   //  const  sum = arr.reduce( (a, b) =>  a + b, 0); //(reduce with default value of 0)
   //   console.log(sum / arr.length) 
